@@ -1,6 +1,8 @@
 # oxicni-pub
 📁 Rapid and Efficient Removal of Dissolved Nickel by Oxic Bedded Sediment
 
+[![DOI](https://zenodo.org/badge/876174832.svg)](https://doi.org/10.5281/zenodo.13961213)
+
 Metadata for oxicni.csv
 
 #### Contact information:
