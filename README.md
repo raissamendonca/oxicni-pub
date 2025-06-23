@@ -1,31 +1,33 @@
-# oxicni-pub
-📁 Rapid and Efficient Removal of Dissolved Nickel by Oxic Bedded Sediment
+## 📁 Rapid and Efficient Removal of Dissolved Nickel by Oxic Bedded Sediment
+
+Raissa Marques Mendonca, David M Singer, David M Costello, Rapid and efficient removal of dissolved nickel by oxic bedded sediment, Environmental Toxicology and Chemistry, 2025, _vgaf114_, [https://doi.org/10.1093/etojnl/vgaf114](https://doi.org/10.1093/etojnl/vgaf114).
 
 [![DOI](https://zenodo.org/badge/876174832.svg)](https://doi.org/10.5281/zenodo.13961213)
 
-Metadata for oxicni.csv
+### Metadata for oxicni.csv
 
-#### Contact information:
+#### Contact information
 Raissa Mendonca\
 Department of Biological Sciences\
 Kent State University\
 rmarques@kent.edu
 
-#### Summary:
+#### Summary
 This dataset summarizes the OxicNi project measuring dissolved nickel (Ni) partitioning to five distinct oxic sediments under different pH scenarios (pH 5, 7, and 9) and nickel concentrations (0.5, 2, and 5 mg/L) in a fully factorial experimental design. Sediments were collected from streams within the state of Ohio (Tinkers Creek, Plum Creek, Breakneck Creek, Robinson Run, Little Sugar Creek, Little Miami River). The experimental set-up was the same for each sediment type. Wet sediment aliquots (~85 grams) were placed in 8oz. septa jars. Jars were then filled with 120 mL of respective buffer solutions made with reconstituted freshwater (OECD No. 225). The jars were placed in an incubator at 20 degrees Celsius in complete darkness (prevent microbial activity) and continuosly aerated. After a 10-day equilibration period, respective amounts of Ni stock solution (8 g/L) were added to each jar to reach the desired overlying water Ni concentrations. The experiment was conducted for twenty eight days with six sampling days (0, 1, 4, 7, 14, 28). For each sediment type, Ni x pH treatment combinations contained six jars that were destructively sampled at each sampling day (n = 54 per sediment, n = 270 total). Buffer-only control jars were used to account for Ni precipitation. Overlying water samples were taken at each sampling day and filtered through a 0.45 micron syring filter. Sediment samples were sealed in Whirl-pak bags and stored in the freezer until further analysis. Water samples were analyzed for Fe and Ni in the ICP-OES to determine metal concentration through time. Sediment samples were analyzed via a suite of geochemical analyses (total metal digestions, selective extractions (ascorbate and dithionite), and acid-volative sulfide) and ICP-OES was used to determine metal concentrations for Fe, Al, Mn and Ni. 
 After all the experiments with overlying water nickel had been performed, a round of experiments with sediments from Little Sugar Creek and Little Miami River with overlying water Fe and Al was performed to facilitate comparisons between matels. The experiment followed the same experimental design as described above.
 
-#### Temporal coverage:
+#### Temporal coverage
 Experiments were conducted from 08 April 2016 to 20 February 2017.
 
-#### Geographic coverage:
-OxicNi experiment and measurements were conducted in the Costello Biogeochemistry Lab at Kent State University, Kent, OH, USA.
+#### Geographic coverage
+OxicNi experiment and measurements were conducted in the Costello Biogeochemistry Lab at Kent State University, Kent, OH, USA. Sediment were collected from streams across Ohio.
 
 #### Attributes
 
 | Variable name | Description | Units |
 | :---: | --- | :---: |
-| TREAT | Buffer only or sediment+buffer treatments | –– |
+| SAMPLE | Unique identifier for each sediment sample | –– |
+| TREAT | Buffer only or sediment + buffer treatments | –– |
 | SEDTYP | Sediment type used in experiment | –– |
 | NiTREAT |	Nickel experimental treatments labeled as the desired nickel concentration added on sampling d0 | –– |
 | pHTREAT |	pH experimental treatments labeled as the desired pH level achieved by 3 buffering systems | –– |
@@ -55,8 +57,7 @@ OxicNi experiment and measurements were conducted in the Costello Biogeochemistr
 | POxidMn |	Proportion of total oxidized Mn (Dithionite extracted Mn) to total Mn in sediment | % |
 | LOI |	Organic matter content determined via loss-on-ignition | % |
 
-#### Abbreviations:
-
+#### Abbreviations
 TK = Tinkers Creek\
 PM = Plum Creek\
 BN = Breakneck Creek\
