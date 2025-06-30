@@ -1,6 +1,6 @@
 ## 📁 Rapid and Efficient Removal of Dissolved Nickel by Oxic Bedded Sediment
 
-Raissa Marques Mendonca, David M Singer, David M Costello, Rapid and efficient removal of dissolved nickel by oxic bedded sediment, Environmental Toxicology and Chemistry, 2025, _vgaf114_, [https://doi.org/10.1093/etojnl/vgaf114](https://doi.org/10.1093/etojnl/vgaf114).
+Raissa Marques Mendonca, David M Singer, David M Costello, Rapid and efficient removal of dissolved nickel by oxic bedded sediment, Environmental Toxicology and Chemistry, 2025, _vgaf114_, [https://doi.org/10.1093/etojnl/vgaf114](https://doi.org/10.1093/etojnl/vgaf114). ([_Free-access link_](https://academic.oup.com/etc/article/44/7/1847/8124371?utm_source=authortollfreelink&utm_campaign=etc&utm_medium=email&guestAccessKey=db5e4e78-9288-497a-a097-75120e533402))
 
 [![DOI](https://zenodo.org/badge/876174832.svg)](https://doi.org/10.5281/zenodo.13961213)
 
